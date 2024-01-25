@@ -1,0 +1,23 @@
+User Story:
+
+As a job seeker, I can input my work experience and skills into the platform, so that I can find job opportunities that are a good fit for my career growth.
+
+Acceptance Criteria:
+
+* Specificity: The job seeker must be able to input specific fields such as years of experience, education level, desired industry, and key skills into their profile.
+
+* Testability: The system should allow the job seeker to preview the filtered job opportunities based on the inputted data to verify the matching functionality.
+
+* Completeness: The system should prompt the job seeker to complete all mandatory fields before activating the job matching feature.
+
+* Independence: The system should ensure that the job matching feature can function independently from other features like job alerts or application tracking.
+
+* Prioritization: The matching algorithm must prioritize job listings that match the job seeker's inputted skills and preferences first.
+
+* Measurability: The system should provide metrics on the number of matches made, the percentage of profiles with complete information, and the number of applications submitted through these recommendations.
+
+* Alignment with User Needs: Job seekers should be able to filter the recommended opportunities based on additional preferences such as job type, location, and salary expectations.
+
+* Acceptance by Stakeholders: The job matching feature will be considered ready for deployment once the job seeker can demonstrate successful application to at least three matched job listings and receive at least one employer response.
+
+This user story along with the acceptance criteria ensure that the job seeker's needs are met with specificity, the functionality is testable and complete, each criterion is independent and measurable, and the feature aligns with both user needs and stakeholder requirements.
